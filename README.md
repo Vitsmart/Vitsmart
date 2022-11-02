@@ -1,4 +1,6 @@
-### Hi there, i am Vitalis igboanugwo. 👋
+### Hi there, i am Vitalis igboanugwo.👋
+Your Software developer, 
+Nice to meet you ✌
 
 <!--
 **Vitsmart/Vitsmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
